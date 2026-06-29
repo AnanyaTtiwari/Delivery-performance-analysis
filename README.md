@@ -167,7 +167,8 @@ Based on the analysis:
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_screenshot.png)
+
+<img width="664" height="395" alt="Screenshot 2026-06-29 204804" src="https://github.com/user-attachments/assets/58393667-537b-465d-aa81-4a8bcefdde56" />.
 
 ---
 
@@ -198,6 +199,5 @@ Future improvements may include:
 - Platform demand forecasting
 
 ---
-<img width="664" height="395" alt="Screenshot 2026-06-29 204804" src="https://github.com/user-attachments/assets/58393667-537b-465d-aa81-4a8bcefdde56" />
 
 
